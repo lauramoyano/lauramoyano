@@ -50,10 +50,10 @@ const MOYANO = {
 ## :globe_with_meridians: Social networks!
 
 <p align="left">
-  <a href="https://cloudhq.net/s/af2bb154df01d1" alt="Gmail">
+  <a href="mailto:laura.moyano.go@gmail.com" alt="Gmail">
   <img height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" /></a>
 
-  <a href="www.linkedin.com/in/moyanolau" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/moyanolau/" alt="Linkedin">
   <img height="40" width="50" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" /></a>
 </p> 
 
