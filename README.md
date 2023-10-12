@@ -34,6 +34,7 @@ const MOYANO = {
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://jira.zurichseguros.com.co/images/atlassian-jira-logo-large.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png"></code>
 <code><img height="40" src="https://tech.osteel.me/images/2020/03/04/docker-introduction-01.jpg"></code>
 
 ## :computer: **GitHub Stats**
